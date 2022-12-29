@@ -39,12 +39,12 @@ Essa é apenas uma introdução básica ao comando SSH. Ele tem muitos outros re
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 
-[image](https://i.imgur.com/2PkVzO5.png)
+![image](https://i.imgur.com/2PkVzO5.png)
 
 Após se conectar ao host com o usuário `bandit0` ele irá irá pedir a senhar que também será `bandit0`
 
-[image](https://i.imgur.com/wbIuayj.png)
+![image](https://i.imgur.com/wbIuayj.png)
 
 Ao inserir sua senha o host irá retornar uma mensagem de susseso e bem-vindo, logo após isso você estará liberado para seguir adiante para o nivel 1 » 2
 
-[image](https://i.imgur.com/2femMgG.png)
+![image](https://i.imgur.com/2femMgG.png)
