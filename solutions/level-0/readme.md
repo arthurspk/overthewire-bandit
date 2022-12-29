@@ -1,6 +1,6 @@
-# Bandit Level 0 - SSH
+![image](https://i.imgur.com/Seh5wuG.png)
 
-## Objetivo do Nível
+## Bandit Level 0 - SSH 
 O objetivo deste nível é fazer login no jogo usando SSH. O host ao qual você precisa se conectar é bandit.labs.overthewire.org , na porta 2220. O nome de usuário é bandit0 e a senha é bandit0 . Uma vez conectado, vá para a página do Nível 1 para descobrir como vencer o Nível 1.
 
 - Comandos utilizados: ssh
@@ -33,18 +33,18 @@ Essa é apenas uma introdução básica ao comando SSH. Ele tem muitos outros re
 
 ## Resolução do Nível 0
 
-1º - É necessário estabelecer a conexão com o host pelo usuário `bandit0` para realizar essa etapa, utilizaremos o seguinte comando no terminal:
+1º - É necessário estabelecer a conexão com o host pelo usuário `bandit0` para realizar essa etapa, utilizaremos o seguinte comando:
 
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 
-![image](https://i.imgur.com/2PkVzO5.png)
+![image](https://i.imgur.com/0VJXpni.png)
 
-Após se conectar ao host com o usuário `bandit0` ele irá irá pedir a senhar que também será `bandit0`
+2º - Após se conectar ao host com o usuário `bandit0` ele irá irá pedir a senhar que também será `bandit0`
 
 ![image](https://i.imgur.com/wbIuayj.png)
 
-Ao inserir sua senha o host irá retornar uma mensagem de susseso e bem-vindo, logo após isso você estará liberado para seguir adiante para o nivel 1 » 2
+3º - Ao inserir sua senha o host irá retornar uma mensagem de susseso e bem-vindo, logo após isso você estará liberado para seguir adiante para o nivel 1 » 2 e continuar sua jornada de aprendizado utilizando o bandit.
 
 ![image](https://i.imgur.com/2femMgG.png)
