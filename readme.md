@@ -1,3 +1,3 @@
-![image](https://i.imgur.com/Seh5wuG.png)
+![image](https://i.imgur.com/HyXjILr.png)
 
 ## Resoluções do Bandit
