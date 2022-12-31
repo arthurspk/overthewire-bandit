@@ -2,12 +2,12 @@
   <a href="https://github.com/arthurspk/guiadecybersecurity">
     <img src="./images/icon.png" alt="OverTheWire Bandit" width="160" height="160">
   </a>
-  <h1 align="center">Guia de Cyber Security</h1>
+  <h1 align="center">OverTheWire - Bandit</h1>
 </p>
 
-Bandit é um CTF feito pela OverTheWire para ensinar o básico sobre o Linux, dessa maneira você irá operar um terminal para aprender sobre comandos bases do Linux.
+O wargame Bandit é voltado para iniciantes absolutos, ele ensinará o básico necessário para poder jogar outros wargames, Bandit é um CTF feito pela OverTheWire para ensinar o básico sobre o Linux, dessa maneira você irá operar um terminal para aprender sobre comandos bases do Linux.
 
-### Resoluções do Bandit
+## Resoluções do Bandit
 
 - [0 » 1]()
 - [1 » 2]()
